@@ -11,8 +11,6 @@ To use this program, you can run the `.exe` file or the `.py` file using Python.
 - Finding the location of a particular color in an image
 - Experimenting with image processing
 
-<br>
-
 **Output Options:**
 - Console
 - Text File
